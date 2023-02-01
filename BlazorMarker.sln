@@ -9,6 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMarker.Sample", "Blaz
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{30A4ADFC-1A8E-4231-B3D1-72B4A4E22924}"
 	ProjectSection(SolutionItems) = preProject
+		.github\workflows\DOTNET.yml = .github\workflows\DOTNET.yml
 		README.md = README.md
 	EndProjectSection
 EndProject
